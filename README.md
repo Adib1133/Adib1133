@@ -32,7 +32,7 @@
 ---
 ## 💼 Experience
 
-- **Head of IT and infrastructure management (On Site)** — Apon Family Mart (Branch 1) affiliated with Masha Allah trade corp., Basundhara R/A, Bangladesh (2025 – Ongoing)  
+- **IT and infrastructure management (On Site)** — Apon Family Mart (Branch 1) affiliated with Masha Allah trade corp., Basundhara R/A, Bangladesh (2025 – Ongoing)  
   - Managing IT operations and infrastructure to ensure secure, reliable business processes
   - Optimized system performance and resource utilization, reducing downtime and improving efficiency
 
