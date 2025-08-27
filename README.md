@@ -29,7 +29,17 @@
 - 🚗 [**Road Safety Animation**](https://github.com/Adib1133/2d-Animation) — Python-based 2D animation with OpenGL  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Adib1133&icon=0&color=1)](https://visitcount.itsvg.in)
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adib1133&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adib1133&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>
+
+---
+
 ---
 ## 💼 Experience
 
