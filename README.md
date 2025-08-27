@@ -31,6 +31,11 @@
 
 ## 💼 Experience
 
+- **Head of IT and infrastructure management (On Site)** — Apon Family Mart (Branch 1) affiliated with Masha Allah trade corp., Basundhara R/A, Bangladesh (2025 – Ongoing)  
+  - Reviewed and optimized reinforcement learning code submissions  
+  - Improved code quality standards → 25% reduction in deployment issues 
+
+
 - **RLHF Code Reviewer (Remote)** — G2i Inc., Florida, USA (2024 – 2025)  
   - Reviewed and optimized reinforcement learning code submissions  
   - Improved code quality standards → 25% reduction in deployment issues  
