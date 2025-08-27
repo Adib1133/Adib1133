@@ -29,7 +29,8 @@
 - 🚗 [**Road Safety Animation**](https://github.com/Adib1133/2d-Animation) — Python-based 2D animation with OpenGL  
 
 ---
-
+[![](https://visitcount.itsvg.in/api?id=Adib1133&icon=0&color=1)](https://visitcount.itsvg.in)
+---
 ## 💼 Experience
 
 - **Head of IT and infrastructure management (On Site)** — Apon Family Mart (Branch 1) affiliated with Masha Allah trade corp., Basundhara R/A, Bangladesh (2025 – Ongoing)  
