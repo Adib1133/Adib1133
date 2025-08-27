@@ -1,7 +1,7 @@
 ## 👋 About Me
 
 Hi, I'm **Moinul Hossain**!  
-You may also know me as **Adib** that is my nickname.
+You may also know me as **Adib**. Well, that is my nickname.
 
 I'm a Computer Science & Engineering (CSE) student passionate about building useful and creative tech solutions.  
 I enjoy working on **Web Development, Security Tools, and Problem-Solving Projects**.  
