@@ -1,20 +1,22 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**Adib1133/Adib1133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Adib Hossain**!  
+I'm a Computer Science & Engineering (CSE) student passionate about building useful and creative tech solutions.  
+I enjoy working on **Web Development, Security Tools, and Problem-Solving Projects**.  
 
-Here are some ideas to get you started:
+### 🚀 What I Do
+- 🌐 Frontend development with **React, Angular, and TypeScript**  
+- 🎨 Clean, responsive UI with **SCSS/CSS**  
+- 🔐 Exploring **cybersecurity & Burp Suite**  
+- 🧩 Creating unique Python projects and experiments  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Adib 👨‍💻
-- 🎓 CSE Student
-- 💡 Interested in Web Development, Security & AI
-- 🌐 Portfolio: [your link]
+### 📈 Goals
+- 🔭 Sharpen my full-stack development skills  
+- ✍️ Contribute to open-source projects  
+- 🎯 Achieve an **IELTS 8 band score** for global opportunities  
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/adibhossain/)  
+- 🐦 [Twitter](https://x.com/) *(optional, replace if you have one)*  
+- 🌐 [Portfolio Website](https://your-portfolio-link.com) *(add when ready)*  
+- 📧 Email: **your.email@example.com**
