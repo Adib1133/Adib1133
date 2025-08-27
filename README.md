@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Adib 👨‍💻
+- 🎓 CSE Student
+- 💡 Interested in Web Development, Security & AI
+- 🌐 Portfolio: [your link]
