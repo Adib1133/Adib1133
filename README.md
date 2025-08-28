@@ -1,5 +1,4 @@
-# 👋 Hi, I'm **Moinul Hossain**. 
-- You may also know me as **Adib**, well that's my nickname.
+# 👋 Hi, I'm **Moinul Hossain Adib**. 
 
 🎓 Computer Science & Engineering graduate from **Brac University**  
 💻 Passionate about **Web Development, Machine Learning, and AI**  
