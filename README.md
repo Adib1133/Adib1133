@@ -54,12 +54,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adib1133&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=86400" alt="Moinul's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adib1133&layout=compact&theme=radical&langs_count=7&hide_border=true&cache_seconds=86400" alt="Top Languages" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Adib1133&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Adib1133&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Adib1133&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adib1133&theme=redical&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
