@@ -13,14 +13,17 @@
 | **Web Development** | HTML5, CSS3, JavaScript, React, Angular, Vue, TypeScript, PHP, Laravel, Flask, Node.js, Tailwind CSS |
 | **Programming Languages** | Python, C++, JavaScript, TypeScript, PHP |
 | **Databases** | MySQL, MongoDB |
-| **Machine Learning & AI** | TensorFlow, PyTorch, ML/DL, NLP, GenAI, RLHF, Prompt Engineering, Simulation & Modeling |
+| **Machine Learning & AI** | TensorFlow, PyTorch, ML/DL, NLP, GenAI, RLHF, Prompt Engineering, Simulation & Modeling, Real-ESRGAN, BSRGAN, GFPGAN |
+| **Developer Tools & Compiler Design** | AST-based Parsing, Lexer/Parser/Code Generation, Code Tracing & Profiling, Debugging Tooling |
 | **Tools & Platforms** | Git/GitHub, Agile, SDLC, Microsoft Azure, Virtualization, Office 365, Linux, Windows |
 | **Soft Skills** | Problem Solving, Critical Thinking, Project Management, Networking, Troubleshooting |
 
 ---
 
 ## 🛠 Featured Projects
-
+- ☕ [**javac → py**](https://github.com/Adib1133/Java-To-Python-Converter-J2P) — A real Java-to-Python transpiler that lives entirely inside a single HTML file, with no build step, no backend, and no `npm install`. *(JavaScript, AST, Lexer/Parser/Code Generation)*
+- 🔍 [**PyTrace**](https://github.com/Adib1133/Python-Code-Visualizer-PyTrace) — Fully local Python code visualizer for step-by-step execution analysis, with real-time tracing, stack/variable state, interactive input, profiling, and breakpoint tooling. *(Python, Debugging, Profiling)*
+- 🖼️ [**ClaritySR**](https://github.com/Adib1133/Image-Upscaler-Model-ClaritySR) — Local Flask web app for AI image upscaling, artifact cleanup, and face restoration. *(Python, Flask, Real-ESRGAN, BSRGAN, GFPGAN)*
 - 🖼️ [**Single Image Super-Resolution (Thesis)**](https://github.com/Adib1133/Thesis) — Deep learning model using GANs to enhance image quality beyond native resolution. *(Deep Learning, GANs, TensorFlow)*
 - 🏥 [**Healthcare Landing Page**](https://github.com/Adib1133/klinik24-landing) — Modern, pixel-perfect, and fully responsive healthcare portal built from Figma design. *(Angular, TypeScript, CSS)*
 - 💊 [**Klinik-24**](https://github.com/Adib1133/klinik-24) — Full-featured clinic platform focused on smooth user experience and modern UX mechanics. *(React, TypeScript, Vite, ESLint)*
