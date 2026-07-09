@@ -21,10 +21,10 @@
 ---
 
 ## 🛠 Featured Projects
-- ☕ [**javac → py**](https://github.com/Adib1133/Java-To-Python-Converter-J2P) — A real Java-to-Python transpiler that lives entirely inside a single HTML file, with no build step, no backend, and no `npm install`. *(JavaScript, AST, Lexer/Parser/Code Generation)*
-- 🔍 [**PyTrace**](https://github.com/Adib1133/Python-Code-Visualizer-PyTrace) — Fully local Python code visualizer for step-by-step execution analysis, with real-time tracing, stack/variable state, interactive input, profiling, and breakpoint tooling. *(Python, Debugging, Profiling)*
-- 🖼️ [**ClaritySR**](https://github.com/Adib1133/Image-Upscaler-Model-ClaritySR) — Local Flask web app for AI image upscaling, artifact cleanup, and face restoration. *(Python, Flask, Real-ESRGAN, BSRGAN, GFPGAN)*
-- 🖼️ [**Single Image Super-Resolution (Thesis)**](https://github.com/Adib1133/Thesis) — Deep learning model using GANs to enhance image quality beyond native resolution. *(Deep Learning, GANs, TensorFlow)*
+- ☕ [**Java to Python Converter (javac → py)**](https://github.com/Adib1133/Java-To-Python-Converter-J2P) — A real Java-to-Python transpiler that lives entirely inside a single HTML file, with no build step, no backend, and no `npm install`. *(JavaScript, AST, Lexer/Parser/Code Generation)*
+- 🔍 [**Python Code Visualizer (PyTrace)**](https://github.com/Adib1133/Python-Code-Visualizer-PyTrace) — Fully local Python code visualizer for step-by-step execution analysis, with real-time tracing, stack/variable state, interactive input, profiling, and breakpoint tooling. *(Python, Debugging, Profiling)*
+- 🖼️ [**Image Upscaler Model (ClaritySR)**](https://github.com/Adib1133/Image-Upscaler-Model-ClaritySR) — Local Flask web app for AI image upscaling, artifact cleanup, and face restoration. *(Python, Flask, Real-ESRGAN, BSRGAN, GFPGAN)*
+- 🖼️ [**Single Image Super-Resolution (Thesis), (MSRGAN)**](https://github.com/Adib1133/Thesis) — Deep learning model using GANs to enhance image quality beyond native resolution. *(Deep Learning, GANs, TensorFlow)*
 - 🏥 [**Healthcare Landing Page**](https://github.com/Adib1133/klinik24-landing) — Modern, pixel-perfect, and fully responsive healthcare portal built from Figma design. *(Angular, TypeScript, CSS)*
 - 💊 [**Klinik-24**](https://github.com/Adib1133/klinik-24) — Full-featured clinic platform focused on smooth user experience and modern UX mechanics. *(React, TypeScript, Vite, ESLint)*
 - 📈 [**Stock Market Trend Simulation**](https://github.com/Adib1133/Predicting-Stock-Market-Trends-through-Monte-Carlo-Simulation) — Python-based simulation and modeling of stock market behaviors using Monte Carlo methods. *(Python, Simulation, Modeling)*
@@ -33,7 +33,7 @@
 - 🛒 [**E-Commerce Medicine Store**](https://github.com/Adib1133/Websites) — Full-scale digital e-commerce web platform engineered for pharmacies. *(PHP, Laravel, MySQL)*
 - 🚗 [**Road Safety Animation**](https://github.com/Adib1133/2d-Animation) — 2D/3D animated road safety visualization powered by computer graphics pipelines. *(Python, PyOpenGL, GLUT)*
 - 🩺 [**Complete Clinic Management System**](https://github.com/Adib1133/Medicare) — End-to-end full-stack MERN clinic workspace with patient dashboards and admin suites. *(React, MongoDB, Node.js, Tailwind CSS)*
-- 🌤️ [**Minimalistic Weather App**](https://github.com/Adib1133/Aura-Weather) — Real-time weather monitoring dashboard using lightweight external data streams. *(Python, Flask, Open-Meteo API, BigDataCloud)*
+- 🌤️ [**Minimalistic Weather App (Aura Weather)**](https://github.com/Adib1133/Aura-Weather) — Real-time weather monitoring dashboard using lightweight external data streams. *(Python, Flask, Open-Meteo API, BigDataCloud)*
 - 🐍 [**Snake Master (Game)**](https://github.com/Adib1133/Snake-Master---Game) — A modern, feature-rich twist on the classic arcade game with custom power-ups, skins, and leaderboards. *(HTML5 Canvas, JavaScript, CSS3)*
 - ⚙️ [**Scripts**](https://github.com/Adib1133/Scripts) — Automation modules built to simplify repetitive desktop workflows and daily computational tasks. *(Python, C++, JavaScript)*
 
