@@ -87,4 +87,4 @@
 
 ---
 
-⭐️ *Feel free to check out my repositories and connect with me for collaboration or opportunities!*
+ *Feel free to check out my repositories and connect with me for collaboration or opportunities!*
