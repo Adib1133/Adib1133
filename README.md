@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Moinul Hossain Adib**
+#  Hi, I'm **Moinul Hossain Adib**
 
  Computer Science & Engineering graduate from **BRAC University**
  Passionate about **Web Development, Machine Learning, and AI**
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Skills
+##  Skills
 
 | Category | Technologies |
 |---|---|
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠 Featured Projects
+##  Featured Projects
 -  [**Java to Python Converter (javac → py)**](https://github.com/Adib1133/Java-To-Python-Converter-J2P) — A real Java-to-Python transpiler that lives entirely inside a single HTML file, with no build step, no backend, and no `npm install`. *(JavaScript, AST, Lexer/Parser/Code Generation)*
 -  [**Python Code Visualizer (PyTrace)**](https://github.com/Adib1133/Python-Code-Visualizer-PyTrace) — Fully local Python code visualizer for step-by-step execution analysis, with real-time tracing, stack/variable state, interactive input, profiling, and breakpoint tooling. *(Python, Debugging, Profiling)*
 -  [**Image Upscaler Model (ClaritySR)**](https://github.com/Adib1133/Image-Upscaler-Model-ClaritySR) — Local Flask web app for AI image upscaling, artifact cleanup, and face restoration. *(Python, Flask, Real-ESRGAN, BSRGAN, GFPGAN)*
@@ -39,7 +39,7 @@
 
 ---
 
-## 💼 Experience
+##  Experience
 
 **System Engineer, IT** — Mashallah Group, Bashundhara R/A, Bangladesh *(August 2025 – Present)*
 - Managing IT operations and infrastructure to ensure secure, reliable business processes across all branches.
@@ -54,7 +54,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Adib1133&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -70,7 +70,7 @@
 
 ---
 
-## 🎯 Goals
+##  Goals
 
 -  Strengthen expertise in full-stack development
 -  Contribute to open-source projects
@@ -78,7 +78,7 @@
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moinul-hossain-0200b4242/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adib1133)
