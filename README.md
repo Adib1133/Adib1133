@@ -21,7 +21,7 @@
 ---
 
 ##  Featured Projects
--  [**OptiScaler Client for Intel Arc (ArcScaler)**](https://github.com/Adib1133/ArcScaler) — A native Windows desktop manager for per-game OptiScaler and Intel XeSS configuration. *(Python, Flask, Real-ESRGAN, BSRGAN, GFPGAN)*
+-  [**OptiScaler Client for Intel Arc (ArcScaler)**](https://github.com/Adib1133/ArcScaler) — A native Windows desktop manager for per-game OptiScaler and Intel XeSS configuration. *(Python, Flask, psutil, unittest, ctypes)*
 -  [**Java to Python Converter (javac → py)**](https://github.com/Adib1133/Java-To-Python-Converter-J2P) — A real Java-to-Python transpiler that lives entirely inside a single HTML file, with no build step, no backend, and no `npm install`. *(JavaScript, AST, Lexer/Parser/Code Generation)*
 -  [**Python Code Visualizer (PyTrace)**](https://github.com/Adib1133/Python-Code-Visualizer-PyTrace) — Fully local Python code visualizer for step-by-step execution analysis, with real-time tracing, stack/variable state, interactive input, profiling, and breakpoint tooling. *(Python, Debugging, Profiling)*
 -  [**Image Upscaler Model (ClaritySR)**](https://github.com/Adib1133/Image-Upscaler-Model-ClaritySR) — Local Flask web app for AI image upscaling, artifact cleanup, and face restoration. *(Python, Flask, Real-ESRGAN, BSRGAN, GFPGAN)*
