@@ -21,6 +21,7 @@
 ---
 
 ##  Featured Projects
+-  [**OptiScaler Client for Intel Arc (ArcScaler)**](https://github.com/Adib1133/ArcScaler) — A native Windows desktop manager for per-game OptiScaler and Intel XeSS configuration. *(Python, Flask, Real-ESRGAN, BSRGAN, GFPGAN)*
 -  [**Java to Python Converter (javac → py)**](https://github.com/Adib1133/Java-To-Python-Converter-J2P) — A real Java-to-Python transpiler that lives entirely inside a single HTML file, with no build step, no backend, and no `npm install`. *(JavaScript, AST, Lexer/Parser/Code Generation)*
 -  [**Python Code Visualizer (PyTrace)**](https://github.com/Adib1133/Python-Code-Visualizer-PyTrace) — Fully local Python code visualizer for step-by-step execution analysis, with real-time tracing, stack/variable state, interactive input, profiling, and breakpoint tooling. *(Python, Debugging, Profiling)*
 -  [**Image Upscaler Model (ClaritySR)**](https://github.com/Adib1133/Image-Upscaler-Model-ClaritySR) — Local Flask web app for AI image upscaling, artifact cleanup, and face restoration. *(Python, Flask, Real-ESRGAN, BSRGAN, GFPGAN)*
@@ -35,6 +36,7 @@
 -  [**Complete Clinic Management System**](https://github.com/Adib1133/Medicare) — End-to-end full-stack MERN clinic workspace with patient dashboards and admin suites. *(React, MongoDB, Node.js, Tailwind CSS)*
 -  [**Minimalistic Weather App (Aura Weather)**](https://github.com/Adib1133/Aura-Weather) — Real-time weather monitoring dashboard using lightweight external data streams. *(Python, Flask, Open-Meteo API, BigDataCloud)*
 -  [**Snake Master (Game)**](https://github.com/Adib1133/Snake-Master---Game) — A modern, feature-rich twist on the classic arcade game with custom power-ups, skins, and leaderboards. *(HTML5 Canvas, JavaScript, CSS3)*
+-  [**Bounce Classic Remastered (Game)**](https://github.com/Adib1133/Bounce-Classic-Remastered) — A modern, feature-rich twist on the classic Bounce game with redesigned graphics and looks *(HTML5 Canvas, JavaScript, CSS3)*
 -  [**Scripts**](https://github.com/Adib1133/Scripts) — Automation modules built to simplify repetitive desktop workflows and daily computational tasks. *(Python, C++, JavaScript)*
 
 ---
